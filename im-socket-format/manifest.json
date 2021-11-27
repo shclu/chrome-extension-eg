@@ -1,0 +1,10 @@
+{
+  "name": "IM-SOCKET FORMAT",
+  "description": " convert sinan's im message to visual format",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "Donald.png"
+  }
+}
